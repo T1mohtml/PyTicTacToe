@@ -1,0 +1,1 @@
+([('script', '/Users/Timo/PyTicTacToe/dist/script', 'EXECUTABLE')],)
